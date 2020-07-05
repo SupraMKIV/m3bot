@@ -1,0 +1,203 @@
+{
+"usr": {
+    "u97": {
+        "name": "God",
+        "bal": 849012849014,
+        "cmdc": 2347,
+        "wins": 1500,
+        "lvl": 7,
+        "xp": 2200,
+        "ai": 3,
+        "car": ["E30", 10, 10, 10, "2JZ"]
+    }
+},
+"swaps": {
+    "2JZ": {
+        "name": "Toyota 2JZ-GTE",
+        "base": 2270,
+        "max": 16,
+        "price": 25000
+    },
+    "SR20": {
+        "name": "Nissan SR20DET",
+        "base": 1600,
+        "max": 8,
+        "price": 8500
+    },
+    "RB26": {
+        "name": "Nissan RB26DETT",
+        "base": 2089,
+        "max": 15,
+        "price": 20000
+    },
+    "M52": {
+        "name": "BMW M52",
+        "base": 2100,
+        "max": 4,
+        "price": 12000
+    }
+},
+"cars": {
+    "R34": {
+        "manufacturer": "Nissan",
+        "name": "Skyline R34",
+        "base": 2089,
+        "max": 15,
+        "price": 35000},
+    "SilviaQT": {
+        "manufacturer": "Nissan",
+        "name": "Silvia 2JZ Quad-Turbo",
+        "base": 4000,
+        "max": 1,
+        "price": 1337
+    },
+    "MK4": {
+        "manufacturer": "Toyota",
+        "name": "Supra MKIV",
+        "base": 2270,
+        "max": 16,
+        "price": 43000},
+    "CSL": {
+        "manufacturer": "BMW",
+        "name": "E46 M3 CSL",
+        "base": 2400,
+        "max": 8,
+        "price": 50000},
+    "NSX": {
+        "manufacturer": "Acura",
+        "name": "NSX",
+        "base": 2500,
+        "max": 4,
+        "price": 60000},
+    "E30": {
+        "manufacturer": "BMW",
+        "name": "E30 M3",
+        "base": 1800,
+        "max": 12,
+        "price": 20000},
+    "M6E63": {
+        "manufacturer": "BMW",
+        "name": "M6 E36",
+        "base": 2300,
+        "max": 5,
+        "price": 30000},
+    "W210E": {
+        "manufacturer": "Mercedes",
+        "name": "AMG W210 E-Class",
+        "base": 2250,
+        "max": 8,
+        "price": 53000},
+    "IntegraR": {
+        "manufacturer": "Honda",
+        "name": "Integra Type-R",
+        "base": 1780,
+        "max": 10,
+        "price": 18000},
+    "AE86": {
+        "manufacturer": "Toyota",
+        "name": "Corolla AE86",
+        "base": 1000,
+        "max": 13,
+        "price": 5000},
+    "Mustang70": {
+        "manufacturer": "Ford",
+        "name": "Mustang 70'",
+        "base": 1680,
+        "max": 9,
+        "price": 19000},
+    "Camaro17": {
+        "manufacturer": "Chevrolet",
+        "name": "Camaro ZL1 2017",
+        "base": 2700,
+        "max": 3,
+        "price": 60000},
+    "InfinitiM56": {
+        "manufacturer": "Infiniti",
+        "name": "M56",
+        "base": 2310,
+        "max": 6,
+        "price": 40000 
+    },
+    "CLS550": {
+        "manufacturer": "Mercedes",
+        "name": "CLS550",
+        "base": 2470,
+        "max": 3,
+        "price": 46000
+    },
+    "Eclipse": {
+        "manufacturer": "Mitsubishi",
+        "name": "Eclipse",
+        "base": 1920,
+        "max": 10,
+        "price": 21000},
+    "YZF-R 1": {
+        "manufacturer": "Yamaha",
+        "name": "YZF-R 1",
+        "base": 2400,
+        "max": 2,
+        "price": 20000},
+    "Powerstroke": {
+        "manufacturer": "Subaru",
+        "name": "Powerstroke ZRPS21ESLM",
+        "base": 38,
+        "max": 22,
+        "price": 80
+    },
+    "300ZX": {
+        "manufacturer": "Nissan",
+        "name": "300ZX",
+        "base": 2299,
+        "max": 7,
+        "price": 25000},
+    "240Z": {
+        "manufacturer": "Nissan",
+        "name": "Datsun 240Z",
+        "base": 1400,
+        "max": 8,
+        "price": 16000},
+    "MR2": {
+        "manufacturer": "Toyota",
+        "name": "MR2 SW20",
+        "base": 1700,
+        "max": 3,
+        "price": 14000},
+    "Golf4": {
+        "manufacturer": "VW",
+        "name": "Golf 4",
+        "base": 1200,
+        "max": 8,
+        "price": 4000},
+    "CivicEK9": {
+        "manufacturer": "Honda",
+        "name": "Golf 4",
+        "base": 1660,
+        "max": 11,
+        "price": 15000},            
+    "Multipla": {
+        "manufacturer": "Fiat",
+        "name": "Multipla",
+        "base": 700,
+        "max": 5,
+        "price": 2000},
+    "Chiron": {
+        "manufacturer": "Bugatti",
+        "name": "Chiron",
+        "base": 3800,
+        "max": 2,
+        "price": 2000000},
+    "F50": {
+        "manufacturer": "Ferrari",
+        "name": "F50",
+        "base": 3100,
+        "max": 12,
+        "price": 1200000},
+    "Reliant": {
+        "manufacturer": "Reliant",
+        "name": "Supervan",
+        "base": 300,
+        "max": 2,
+        "price": 1000}
+},
+"authToken": ""
+}
